@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpk2272&label=Profile%20views&color=0e75b6&style=flat" alt="dpk2272" /> </p>
 
-- 🔭 I’m currently working on **Netflix clone**
+- 🔭 I’m currently working on **python and django**
 
 - 🌱 I’m currently learning **React**
 
